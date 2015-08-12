@@ -52,6 +52,15 @@ The 802.11 Hacking Repo.
 ##Tells:
 - [WPA/WPA2 PSK Crackq](https://hashcrack.org/crackq/page?n=wpa)
 
+##Videos:
+- [wi-door](https://www.youtube.com/watch?v=T6yc0Toyt2A)
+- [WPA Too!](https://www.youtube.com/watch?v=TNFVNq34wNA)
+- [Underground Wi Fi Hacking for Web Pentesters](https://www.youtube.com/watch?v=86bvUV92Ek8)
+- [Scrutinizing WPA2 Password Generating Algorithms in Wireless Routers](https://www.youtube.com/watch?v=Z2SBFHlGC34)
+
+##Courses:
+- [WiFi Security Megaprimer](http://securitytube.aircrack-ng.org/Wi-Fi-Security-Megaprimer/DVD/videos/)
+
 ##Wordlists:
 - [NETGEARXX](https://mega.co.nz/#!zpNBCI6a!ZAviox8wd3eLgLgh_Brcct-2htjAC7u6C0s-YIhKfew) - 300+ MB compressed
 - [UniqPassv14](https://mega.co.nz/#!bw0GWZaa!6JrGUcZq4G5Tdk-FscqqqgIhp7LmroJwPxwNBZ0pFCU) - 460+ MB compressed
@@ -71,6 +80,7 @@ The 802.11 Hacking Repo.
 - [Dealer](https://github.com/GuerrillaWarfare/Dealer)
 - [lorcon](https://github.com/GuerrillaWarfare/lorcon)
 - [Pummel](https://github.com/GuerrillaWarfare/Pummel)
+- [cpscam](https://github.com/codewatchorg/cpscam/)
 - [asleap](http://www.willhackforsushi.com/?page_id=41)
 - [eapeak](https://github.com/securestate/eapeak)
 - [wifuzz](https://github.com/0x90/wifuzz)
@@ -92,6 +102,7 @@ The 802.11 Hacking Repo.
 - [aggr-inject](https://github.com/rpp0/aggr-inject)
 - [wifi-arsenal](https://github.com/0x90/wifi-arsenal)
 - [dot11decrypt](https://github.com/mfontanini/dot11decrypt)
+- [xfinity-pineapple](https://github.com/GuerrillaWarfare/xfinity-pineapple)
 - [reaver-wps-fork-t6x](https://github.com/t6x/reaver-wps-fork-t6x)
 - [TPLink-AttackDictionary-v1c.x](http://download719.mediafire.com/8u77nchailug/gor6b9b63nu6020/TPLink-AttackDictionary-v1c.x.zip)
 
