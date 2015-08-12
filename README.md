@@ -8,6 +8,7 @@ The 802.11 Hacking Repo.
 - [WiFi Toys](http://sirpabs.ilahas.com/Computing/Wi-Fi%20Toys%20-%2015%20Cool%20Wireless%20Projects%20For%20Home,%20Office,%20And%20Entertainment%20%282004%29.pdf)
 - [CUDA By example](http://www.physics.drexel.edu/~valliere/PHYS405/GPU_Story/CUDA_by_Example_Addison_Wesley_Jul_2010.pdf)
 - [Professional CUDA C Programming](http://it-ebooks.info/book/4934/)
+- [Practical antenna handbook 4th ED.](http://www.apparentlyapparel.com/uploads/5/3/5/6/5356442/_____practical_antenna_handbook_fourth_edition_carr.pdf)
 
 ##Papers
 - [WPA Too!](https://www.defcon.org/images/defcon-18/dc-18-presentations/Ahmad/DEFCON-18-Ahmad-WPA-Too-WP.pdf)
@@ -16,6 +17,7 @@ The 802.11 Hacking Repo.
 - [backtrack-4-cuda-guide](https://www.offensive-security.com/documentation/backtrack-4-cuda-guide.pdf)
 - [Phishing in the Wireless](http://opendl.ifip-tc6.org/db/conf/sec/sec2007/MartinovicZBJS07.pdf)
 - [802.11b Firmware-Level Attacks](http://www.willhackforsushi.com/papers/firmware_attack.pdf)
+- [RF Basics for Non-RF engineers](http://www.ti.com/lit/ml/slap127/slap127.pdf)
 - [The Art of casual WiFi hacking](http://www.infosecwriter.com/pdf/WiFi%20hacking%20article.pdf)
 - [Channel Switch and Quiet attack](https://www.kargl.net/docs/mypapers/2009-10-lcn2009.pdf)
 - [AirPTWFrag: A New Wireless Attack](http://www.ijser.org/researchpaper%5CAirPTWFrag-A-New-Wireless-Attack.pdf)
@@ -24,6 +26,7 @@ The 802.11 Hacking Repo.
 - [802.11 Jamming Using Consumer WiFi Cards](http://www.hardywijaya.com/wp-content/uploads/2014/03/WIFI_conference_paper.pdf)
 - [Pwned Extensible Authentication Protocol](https://www.shmoocon.org/2008/presentations/PEAP_Antoniewicz.pdf)
 - [Steganography in IEEE 802.11 OFDM symbols](http://cygnus.tele.pw.edu.pl/~wmazurczyk/art/SCN_WiPad.pdf)
+- [Using Wireless Signals to Locate a Target](http://web.cs.wpi.edu/~crtaylor/files/woot13.pdf)
 - [Practical Covert Channels for WiFi Systems](http://arxiv.org/pdf/1505.01081.pdf)
 - [Null Data Frames in IEEE 802.11 based WLANs](http://www.cs.odu.edu/~nadeem/classes/cs795-WNS-S13/papers/sec-002.pdf)
 - [WLAN Steganography: A First Practical Review](http://omen.cs.uni-magdeburg.de/alang/paper/kraetzer_lang_dittmann_kuehne-wlan_stego-acm2006.pdf)
@@ -48,6 +51,8 @@ The 802.11 Hacking Repo.
 - [A Targeted, Stealthy Attack Against WPA Enterprise Authentication](https://www.iseclab.org/papers/eviltwins.pdf)
 - [WPA/WPA2 Password Security Testing using Graphics Processing Units](http://www.jmeds.eu/index.php/jmeds/article/viewFile/WPA_WPA2_Password_Security_Testing_using_Graphics_Processing_Units/jmeds_5_4_a_7)
 - [Realizing an 802.11-based Covert Timing Channel Using Off-The-Shelf Wireless Cards](http://www.ece.gatech.edu/cap/papers/1569749537.pdf)
+- [NSA Guidelines for the Development and Evaluation of IEEE 802.11 Intrusion Detection Systems (IDS)](http://nsabackups.com/ia/_files/wireless/I332-005R-2005.pdf)
+- [NSA Commercial Solutions for Classified Campus IEEE 802.11 Wireless Local Area Network (WLAN) Capability Package](http://nsabackups.com/ia/_files/Campus_WLAN.pdf)
 
 ##Tells:
 - [WPA/WPA2 PSK Crackq](https://hashcrack.org/crackq/page?n=wpa)
