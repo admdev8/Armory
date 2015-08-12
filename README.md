@@ -7,6 +7,7 @@ The 802.11 Hacking Repo.
 - [CWSP](https://kat.cr/cwsp-official-study-guide-exam-pw0-204-sybex-pdf-stormrg-t8734250.html)
 - [WiFi Toys](http://sirpabs.ilahas.com/Computing/Wi-Fi%20Toys%20-%2015%20Cool%20Wireless%20Projects%20For%20Home,%20Office,%20And%20Entertainment%20%282004%29.pdf)
 - [Professional CUDA C Programming](http://it-ebooks.info/book/4934/)
+- [CUDA By example](http://www.physics.drexel.edu/~valliere/PHYS405/GPU_Story/CUDA_by_Example_Addison_Wesley_Jul_2010.pdf)
 
 ##Papers
 - [WPA Too!](https://www.defcon.org/images/defcon-18/dc-18-presentations/Ahmad/DEFCON-18-Ahmad-WPA-Too-WP.pdf)
@@ -46,6 +47,7 @@ The 802.11 Hacking Repo.
 - [A Practical Approach to Distributed WPA/WPA2 Cracking with CUDA](https://www.sunjaydhama.com/projects/DWPACLEC2/Report.pdf)
 - [A Targeted, Stealthy Attack Against WPA Enterprise Authentication](https://www.iseclab.org/papers/eviltwins.pdf)
 - [WPA/WPA2 Password Security Testing using Graphics Processing Units](http://www.jmeds.eu/index.php/jmeds/article/viewFile/WPA_WPA2_Password_Security_Testing_using_Graphics_Processing_Units/jmeds_5_4_a_7)
+- [Realizing an 802.11-based Covert Timing Channel Using Off-The-Shelf Wireless Cards](http://www.ece.gatech.edu/cap/papers/1569749537.pdf)
 
 ##Tells:
 - [WPA/WPA2 PSK Crackq](https://hashcrack.org/crackq/page?n=wpa)
