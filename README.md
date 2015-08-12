@@ -51,8 +51,8 @@ The 802.11 Hacking Repo.
 - [A Targeted, Stealthy Attack Against WPA Enterprise Authentication](https://www.iseclab.org/papers/eviltwins.pdf)
 - [WPA/WPA2 Password Security Testing using Graphics Processing Units](http://www.jmeds.eu/index.php/jmeds/article/viewFile/WPA_WPA2_Password_Security_Testing_using_Graphics_Processing_Units/jmeds_5_4_a_7)
 - [Realizing an 802.11-based Covert Timing Channel Using Off-The-Shelf Wireless Cards](http://www.ece.gatech.edu/cap/papers/1569749537.pdf)
-- [NSA Guidelines for the Development and Evaluation of IEEE 802.11 Intrusion Detection Systems (IDS)](http://nsabackups.com/ia/_files/wireless/I332-005R-2005.pdf)
-- [NSA Commercial Solutions for Classified Campus IEEE 802.11 Wireless Local Area Network (WLAN) Capability Package](http://nsabackups.com/ia/_files/Campus_WLAN.pdf)
+- [NSA Guidelines for the Development/Evaluation of IEEE 802.11 Intrusion Detection Systems](http://nsabackups.com/ia/_files/wireless/I332-005R-2005.pdf)
+- [NSA Commercial Solutions for Classified Campus IEEE 802.11 Wireless Local Area Networks](http://nsabackups.com/ia/_files/Campus_WLAN.pdf)
 
 ##Tells:
 - [WPA/WPA2 PSK Crackq](https://hashcrack.org/crackq/page?n=wpa)
