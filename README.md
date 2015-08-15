@@ -75,7 +75,7 @@ The 802.11 Hacking Repo.
 - [Full 18in1 cleaned List](https://app.dumptruck.goldenfrog.com/p/O10ZURAU91) 4+ GB Compressed | password: maurisdump.blogspot.com
 - [TP-LINK_XXXXXX (WEP Keys)](https://mega.co.nz/#!rhFTAYST!UT2cg2mWgKpGDYIVTbREEGdhlZtR3eTqUlhLtylV91g) 13.6 GB compressed
 - [TP-LINK_XXXXXX (WPA/WPA2 Keys)](https://mega.nz/#!D88wTAqb!iTe6lzDPC_3Iu30V9trJ17YDCk799PsElT3zmFw6rx8) - 10.4 GB compressed
-- [CrackStation's Password Cracking Dictionary](https://crackstation.net/buy-crackstation-wordlist-password-cracking-dictionary.htm)
+- [CrackStation's Password Cracking Dictionary](https://crackstation.net/buy-crackstation-wordlist-password-cracking-dictionary.htm) Varies
 
 ##Tools:
 
