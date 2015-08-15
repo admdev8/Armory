@@ -67,6 +67,10 @@ The 802.11 Hacking Repo.
 ##Courses:
 - [WiFi Security Megaprimer](http://securitytube.aircrack-ng.org/Wi-Fi-Security-Megaprimer/DVD/videos/)
 
+##Posts:
+- [Crack WPA2: Know your target](http://xiaopan.co/forums/threads/crack-wpa2-know-your-target.2030/)
+- [Default WPA/WPA2 Router Keyspaces](https://forum.hashkiller.co.uk/topic-view.aspx?t=2715)
+
 ##Wordlists:
 - [NETGEARXX](https://mega.co.nz/#!zpNBCI6a!ZAviox8wd3eLgLgh_Brcct-2htjAC7u6C0s-YIhKfew) - 300+ MB compressed
 - [UniqPassv14](https://mega.co.nz/#!bw0GWZaa!6JrGUcZq4G5Tdk-FscqqqgIhp7LmroJwPxwNBZ0pFCU) - 460+ MB compressed
