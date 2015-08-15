@@ -9,6 +9,7 @@ The 802.11 Hacking Repo.
 - [CUDA By example](http://www.physics.drexel.edu/~valliere/PHYS405/GPU_Story/CUDA_by_Example_Addison_Wesley_Jul_2010.pdf)
 - [Professional CUDA C Programming](http://it-ebooks.info/book/4934/)
 - [Practical antenna handbook 4th ED.](http://www.apparentlyapparel.com/uploads/5/3/5/6/5356442/_____practical_antenna_handbook_fourth_edition_carr.pdf)
+- [Hacking Wireless Networks - The ultimate hands-on guide](http://www.amazon.com/Hacking-Wireless-Networks-ultimate-hands/dp/1508476349)
 
 ##Papers
 - [WPA Too!](https://www.defcon.org/images/defcon-18/dc-18-presentations/Ahmad/DEFCON-18-Ahmad-WPA-Too-WP.pdf)
@@ -70,9 +71,11 @@ The 802.11 Hacking Repo.
 - [NETGEARXX](https://mega.co.nz/#!zpNBCI6a!ZAviox8wd3eLgLgh_Brcct-2htjAC7u6C0s-YIhKfew) - 300+ MB compressed
 - [UniqPassv14](https://mega.co.nz/#!bw0GWZaa!6JrGUcZq4G5Tdk-FscqqqgIhp7LmroJwPxwNBZ0pFCU) - 460+ MB compressed
 - [PsycOPacKv2](http://storage.aircrack-ng.org/users/PsycO/PsycOPacKv2.rar) - 1.0+ GB compressed
-- [Hackforums Utilmate wordlists](https://webcache.googleusercontent.com/search?client=ubuntu&channel=fs&q=cache%3Awww.hackforums.net%2Fshowthread.php%3Ftid%3D2965991&ie=utf-8&oe=utf-8) Varies
+- [g0tmi1k Edition](https://blog.g0tmi1k.com/2011/06/dictionaries-wordlists/) Varies
+- [Full 18in1 cleaned List](https://app.dumptruck.goldenfrog.com/p/O10ZURAU91) 4+ GB Compressed | password: maurisdump.blogspot.com
 - [TP-LINK_XXXXXX (WEP Keys)](https://mega.co.nz/#!rhFTAYST!UT2cg2mWgKpGDYIVTbREEGdhlZtR3eTqUlhLtylV91g) 13.6 GB compressed
 - [TP-LINK_XXXXXX (WPA/WPA2 Keys)](https://mega.nz/#!D88wTAqb!iTe6lzDPC_3Iu30V9trJ17YDCk799PsElT3zmFw6rx8) - 10.4 GB compressed
+- [CrackStation's Password Cracking Dictionary](https://crackstation.net/buy-crackstation-wordlist-password-cracking-dictionary.htm)
 
 ##Tools:
 
@@ -81,8 +84,10 @@ The 802.11 Hacking Repo.
 - [Agent](https://github.com/GuerrillaWarfare/Agent)
 - [Poser](https://github.com/GuerrillaWarfare/Poser)
 - [bully](https://github.com/Lrs121/bully)
+- [Cache](https://github.com/GuerrillaWarfare/Cache)
 - [WPSIG](https://github.com/0x90/WPSIG)
 - [Dealer](https://github.com/GuerrillaWarfare/Dealer)
+- [kismet](https://github.com/ahendrix/kismet.git)
 - [lorcon](https://github.com/GuerrillaWarfare/lorcon)
 - [Pummel](https://github.com/GuerrillaWarfare/Pummel)
 - [cpscam](https://github.com/codewatchorg/cpscam/)
@@ -95,8 +100,9 @@ The 802.11 Hacking Repo.
 - [Glimpse](https://github.com/GuerrillaWarfare/Glimpse)
 - [coWPAtty](http://www.willhackforsushi.com/?page_id=50)
 - [pixiewps](https://github.com/wiire/pixiewps)
-- [wifuzzit](https://github.com/0xd012/wifuzzit)
+- [Smuggler](https://github.com/GuerrillaWarfare/Smuggler)
 - [Crippled](https://github.com/GuerrillaWarfare/Crippled)
+- [wifuzzit](https://github.com/0xd012/wifuzzit)
 - [80211ping](https://github.com/tillwo/80211ping)
 - [Peap-Karma](https://github.com/phikshun/Peap-Karma)
 - [reaver-wps](https://github.com/gabrielrcouto/reaver-wps)
@@ -110,6 +116,7 @@ The 802.11 Hacking Repo.
 - [xfinity-pineapple](https://github.com/GuerrillaWarfare/xfinity-pineapple)
 - [reaver-wps-fork-t6x](https://github.com/t6x/reaver-wps-fork-t6x)
 - [TPLink-AttackDictionary-v1c.x](http://download719.mediafire.com/8u77nchailug/gor6b9b63nu6020/TPLink-AttackDictionary-v1c.x.zip)
+- [Wireless eXfiltration Protocol library](https://github.com/TarlogicSecurity/wxp)
 
 ##Websites:
 - [Wigle](https://wigle.net/)
@@ -133,6 +140,7 @@ The 802.11 Hacking Repo.
 - [What is 802.11b ?](https://en.wikipedia.org/wiki/802.11b)
 - [What is 802.11g ?](https://en.wikipedia.org/wiki/802.11g)
 - [What is 802.11n ?](https://en.wikipedia.org/wiki/802.11n)
+- [What is 802.11ac ?](https://en.wikipedia.org/wiki/IEEE_802.11ac)
 - [What is WPA/WPA2 ?](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access)
 - [What is Wardriving ?](https://en.wikipedia.org/wiki/Wardriving)
 - [What is FreeRADIUS ?](https://en.wikipedia.org/wiki/FreeRADIUS)
