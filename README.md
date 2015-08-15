@@ -1,6 +1,7 @@
 #Armory
 The 802.11 Hacking Repo.
 
+- [FAQ](https://github.com/GuerrillaWarfare/Armory/wiki/FAQ)
 - [Tweet](https://twitter.com/share)
 
 ##Books:
