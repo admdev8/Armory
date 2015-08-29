@@ -29,7 +29,9 @@ The 802.11 Hacking Repo.
 - [Pwned Extensible Authentication Protocol](https://www.shmoocon.org/2008/presentations/PEAP_Antoniewicz.pdf)
 - [Steganography in IEEE 802.11 OFDM symbols](http://cygnus.tele.pw.edu.pl/~wmazurczyk/art/SCN_WiPad.pdf)
 - [Using Wireless Signals to Locate a Target](http://web.cs.wpi.edu/~crtaylor/files/woot13.pdf)
+- [ARUBA NETWORKS GOVERNMENT SOLUTIONS GUIDE](http://www.arubanetworks.com/pdf/solutions/SG_Secure-Network-Access.pdf)
 - [Practical Covert Channels for WiFi Systems](http://arxiv.org/pdf/1505.01081.pdf)
+- [A Heterogeneous Cluster with FPGAs and GPUs](http://www.doc.ic.ac.uk/~wl/papers/10/fpga10bt.pdf)
 - [Null Data Frames in IEEE 802.11 based WLANs](http://www.cs.odu.edu/~nadeem/classes/cs795-WNS-S13/papers/sec-002.pdf)
 - [WLAN Steganography: A First Practical Review](http://omen.cs.uni-magdeburg.de/alang/paper/kraetzer_lang_dittmann_kuehne-wlan_stego-acm2006.pdf)
 - [Cracking AT&T U-verse Default WPA2 Keys (pptx)](http://dc214.org/notes/CrackingWPA.pptx)
@@ -74,6 +76,7 @@ The 802.11 Hacking Repo.
 
 ##Wordlists:
 - [NETGEARXX](https://mega.co.nz/#!zpNBCI6a!ZAviox8wd3eLgLgh_Brcct-2htjAC7u6C0s-YIhKfew) - 300+ MB compressed
+- [rockyou.txt](https://downloads.skullsecurity.org/passwords/rockyou.txt.bz2) - 50+ MB compressed
 - [UniqPassv14](https://mega.co.nz/#!bw0GWZaa!6JrGUcZq4G5Tdk-FscqqqgIhp7LmroJwPxwNBZ0pFCU) - 460+ MB compressed
 - [PsycOPacKv2](http://storage.aircrack-ng.org/users/PsycO/PsycOPacKv2.rar) - 1.0+ GB compressed
 - [g0tmi1k Edition](https://blog.g0tmi1k.com/2011/06/dictionaries-wordlists/) Varies
@@ -83,7 +86,6 @@ The 802.11 Hacking Repo.
 - [CrackStation's Password Cracking Dictionary](https://crackstation.net/buy-crackstation-wordlist-password-cracking-dictionary.htm) Varies
 
 ##Tools:
-
 - [Boss](https://github.com/GuerrillaWarfare/Boss)
 - [mana](https://github.com/sensepost/mana)
 - [Agent](https://github.com/GuerrillaWarfare/Agent)
@@ -106,7 +108,6 @@ The 802.11 Hacking Repo.
 - [coWPAtty](http://www.willhackforsushi.com/?page_id=50)
 - [pixiewps](https://github.com/wiire/pixiewps)
 - [Smuggler](https://github.com/GuerrillaWarfare/Smuggler)
-- [Crippled](https://github.com/GuerrillaWarfare/Crippled)
 - [wifuzzit](https://github.com/0xd012/wifuzzit)
 - [80211ping](https://github.com/tillwo/80211ping)
 - [Peap-Karma](https://github.com/phikshun/Peap-Karma)
