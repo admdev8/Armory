@@ -1,16 +1,13 @@
 #Armory
 The 802.11 Hacking Repo.
 
-- [FAQ](https://github.com/GuerrillaWarfare/Armory/wiki/FAQ)
-- [Tweet](https://twitter.com/share)
-
 ##Books:
 - [CWSP](https://kat.cr/cwsp-official-study-guide-exam-pw0-204-sybex-pdf-stormrg-t8734250.html)
 - [WiFi Toys](http://sirpabs.ilahas.com/Computing/Wi-Fi%20Toys%20-%2015%20Cool%20Wireless%20Projects%20For%20Home,%20Office,%20And%20Entertainment%20%282004%29.pdf)
 - [CUDA By example](http://www.physics.drexel.edu/~valliere/PHYS405/GPU_Story/CUDA_by_Example_Addison_Wesley_Jul_2010.pdf)
+- [Hacking Wireless Networks](http://www.amazon.com/Hacking-Wireless-Networks-ultimate-hands/dp/1508476349)
 - [Professional CUDA C Programming](http://it-ebooks.info/book/4934/)
 - [Practical antenna handbook 4th ED.](http://www.apparentlyapparel.com/uploads/5/3/5/6/5356442/_____practical_antenna_handbook_fourth_edition_carr.pdf)
-- [Hacking Wireless Networks - The ultimate hands-on guide](http://www.amazon.com/Hacking-Wireless-Networks-ultimate-hands/dp/1508476349)
 
 ##Papers
 - [WPA Too!](https://www.defcon.org/images/defcon-18/dc-18-presentations/Ahmad/DEFCON-18-Ahmad-WPA-Too-WP.pdf)
@@ -75,15 +72,15 @@ The 802.11 Hacking Repo.
 - [Default WPA/WPA2 Router Keyspaces](https://forum.hashkiller.co.uk/topic-view.aspx?t=2715)
 
 ##Wordlists:
-- [NETGEARXX](https://mega.co.nz/#!zpNBCI6a!ZAviox8wd3eLgLgh_Brcct-2htjAC7u6C0s-YIhKfew) - 300+ MB compressed
-- [rockyou.txt](https://downloads.skullsecurity.org/passwords/rockyou.txt.bz2) - 50+ MB compressed
-- [UniqPassv14](https://mega.co.nz/#!bw0GWZaa!6JrGUcZq4G5Tdk-FscqqqgIhp7LmroJwPxwNBZ0pFCU) - 460+ MB compressed
-- [PsycOPacKv2](http://storage.aircrack-ng.org/users/PsycO/PsycOPacKv2.rar) - 1.0+ GB compressed
-- [g0tmi1k Edition](https://blog.g0tmi1k.com/2011/06/dictionaries-wordlists/) Varies
-- [Full 18in1 cleaned List](https://app.dumptruck.goldenfrog.com/p/O10ZURAU91) 4+ GB Compressed | password: maurisdump.blogspot.com
-- [TP-LINK_XXXXXX (WEP Keys)](https://mega.co.nz/#!rhFTAYST!UT2cg2mWgKpGDYIVTbREEGdhlZtR3eTqUlhLtylV91g) 13.6 GB compressed
-- [TP-LINK_XXXXXX (WPA/WPA2 Keys)](https://mega.nz/#!D88wTAqb!iTe6lzDPC_3Iu30V9trJ17YDCk799PsElT3zmFw6rx8) - 10.4 GB compressed
-- [CrackStation's Password Cracking Dictionary](https://crackstation.net/buy-crackstation-wordlist-password-cracking-dictionary.htm) Varies
+- [NETGEARXX](https://mega.co.nz/#!zpNBCI6a!ZAviox8wd3eLgLgh_Brcct-2htjAC7u6C0s-YIhKfew)
+- [rockyou.txt](https://downloads.skullsecurity.org/passwords/rockyou.txt.bz2)
+- [UniqPassv14](https://mega.co.nz/#!bw0GWZaa!6JrGUcZq4G5Tdk-FscqqqgIhp7LmroJwPxwNBZ0pFCU)
+- [PsycOPacKv2](http://storage.aircrack-ng.org/users/PsycO/PsycOPacKv2.rar)
+- [g0tmi1k Edition](https://blog.g0tmi1k.com/2011/06/dictionaries-wordlists/)
+- [Full 18in1 cleaned List](https://app.dumptruck.goldenfrog.com/p/O10ZURAU91) password: maurisdump.blogspot.com
+- [TP-LINK_XXXXXX (WEP Keys)](https://mega.co.nz/#!rhFTAYST!UT2cg2mWgKpGDYIVTbREEGdhlZtR3eTqUlhLtylV91g)
+- [TP-LINK_XXXXXX (WPA/WPA2 Keys)](https://mega.nz/#!D88wTAqb!iTe6lzDPC_3Iu30V9trJ17YDCk799PsElT3zmFw6rx8)
+- [CrackStation's Password Cracking Dictionary](https://crackstation.net/buy-crackstation-wordlist-password-cracking-dictionary.htm)
 
 ##Tools:
 - [Boss](https://github.com/GuerrillaWarfare/Boss)
@@ -161,3 +158,6 @@ The 802.11 Hacking Repo.
 - [What is a Rogue access point ?](https://en.wikipedia.org/wiki/Rogue_access_point)
 - [The Cracking of wireless networks](https://en.wikipedia.org/wiki/Cracking_of_wireless_networks)
 - [What is the IEEE 802.11 Specification?](https://en.wikipedia.org/wiki/IEEE_802.11)
+
+#Donations:
+- 17vorVqtJqbDaN6ZC6UGE7UwGC4QVmDNMh
