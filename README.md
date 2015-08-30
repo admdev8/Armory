@@ -77,7 +77,7 @@ The 802.11 Hacking Repo.
 - [UniqPassv14](https://mega.co.nz/#!bw0GWZaa!6JrGUcZq4G5Tdk-FscqqqgIhp7LmroJwPxwNBZ0pFCU)
 - [PsycOPacKv2](http://storage.aircrack-ng.org/users/PsycO/PsycOPacKv2.rar)
 - [g0tmi1k Edition](https://blog.g0tmi1k.com/2011/06/dictionaries-wordlists/)
-- [Full 18in1 cleaned List](https://app.dumptruck.goldenfrog.com/p/O10ZURAU91) password: maurisdump.blogspot.com
+- [Full 18in1 cleaned List](https://app.dumptruck.goldenfrog.com/p/O10ZURAU91) | password: maurisdump.blogspot.com
 - [TP-LINK_XXXXXX (WEP Keys)](https://mega.co.nz/#!rhFTAYST!UT2cg2mWgKpGDYIVTbREEGdhlZtR3eTqUlhLtylV91g)
 - [TP-LINK_XXXXXX (WPA/WPA2 Keys)](https://mega.nz/#!D88wTAqb!iTe6lzDPC_3Iu30V9trJ17YDCk799PsElT3zmFw6rx8)
 - [CrackStation's Password Cracking Dictionary](https://crackstation.net/buy-crackstation-wordlist-password-cracking-dictionary.htm)
